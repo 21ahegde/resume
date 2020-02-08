@@ -1,0 +1,27 @@
+a {
+    color: grey;   
+}
+
+#box {
+    border: 5px solid black;
+    margin: 40px;
+    padding: 15px; 
+}
+
+#c1 {
+    color: red;
+}
+
+#c2 {
+    color: blue;
+    border: 2px dashed green;
+    margin: 30px;
+    padding: 30px; 
+}
+
+#c3 {
+    color: pink;
+    border: 5px solid green;
+    margin: 30px;
+    padding: 30px;
+}
